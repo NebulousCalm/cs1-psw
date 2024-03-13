@@ -1,4 +1,6 @@
-# CS1-PSW
+<p align="center">
+  <h1 align="center">CS1-PSW</h1>
+</p>
 
 > Make sure that the latest versions of `Node.js` and `Node Package Manager` are installed
 
@@ -16,4 +18,5 @@ node server # run server
 
 
 [repl.it](https://www.replit.com/@Reference-Code/cs1-psw)
+
 [code.org adaptation](https://www.ihaventgotthelink.yet)
