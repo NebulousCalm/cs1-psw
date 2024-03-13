@@ -13,3 +13,7 @@ node server # run server
 > `generation.sh` is the script I wrote that generated a boilerplate express server (ignore)
 >
 > `dependents.sh` is the dependencies required to run the application
+
+
+[repl.it](https://www.replit.com/@Reference-Code/cs1-psw)
+[code.org adaptation](https://www.ihaventgotthelink.yet)
