@@ -18,6 +18,7 @@ node server # run server
 
 
 [repl.it](https://www.replit.com/@Reference-Code/cs1-psw)
+[live demo](https://ablyv-dev.azurewebsites.net/game)
 
 <h1 align="center">Code Explanation</h1>
 
